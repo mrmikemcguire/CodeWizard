@@ -1,0 +1,28 @@
+CACHE MANIFEST
+
+# version 1
+
+CACHE:
+
+index.html
+
+js/whackscript.js
+js/insultscript.js
+js/gpsscript.js
+
+css/stylesheet.css
+
+
+http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css
+
+http://code.jquery.com/jquery-1.6.4.min.js
+
+http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js
+
+NETWORK:
+
+/register.html
+
+FALLBACK:
+
+*.html  /offline.html
